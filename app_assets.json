@@ -1,0 +1,19 @@
+{
+  "assetsUpdates": [
+    {
+      "zip": "assets_update1.zip",
+      "version": 1,
+      "date": "2026-01-28T12:00:00Z"
+    },
+    {
+      "zip": "assets_update2.zip",
+      "version": 2,
+      "date": "2026-01-30T09:00:00Z"
+    },
+    {
+      "zip": "assets_update3.zip",
+      "version": 3,
+      "date": "2026-02-01T15:30:00Z"
+    }
+  ]
+}
